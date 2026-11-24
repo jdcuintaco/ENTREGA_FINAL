@@ -1,0 +1,11 @@
+# Dependencias de los notebooks (Python 3.10 o superior).
+# En Google Colab ya vienen torch, pandas, numpy y matplotlib.
+torch
+transformers>=4.46
+datasets>=3.0
+accelerate>=1.0
+seqeval
+scikit-learn
+pandas
+numpy
+matplotlib
